@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Raleway:ital,wght@1,300&display=swap');
+
+body {
+    background-color: rgb(175, 161, 142);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Raleway', sans-serif;
+    font-size: 5rem;
+}
+
+.main{
+    border: 3px solid grey; 
+    width: 50%;
+    margin: 0% auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+
+}
+
+#red{
+    border-color: red;
+}
+
+#green{
+    border-color: green;
+}
+
+#blue{
+    border-color: blue;
+}
+
+.footer {
+    color: blueviolet;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
